@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Driving License Management Desktop Application**
 
-- 🌱 I’m currently learning **C# .Net Framework**
+- 🌱 I’m currently learning **C# .Net Core**
 
 - 📫 How to reach me **ahmed.emad.engineer@gmail.com**
 
